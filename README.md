@@ -1,4 +1,4 @@
-# DevOps delavnica
+# DevOps delavnica 
 
 Vsebina repozitorija:
 - Quarkus backend 
